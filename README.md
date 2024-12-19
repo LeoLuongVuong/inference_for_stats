@@ -1,1 +1,1 @@
-# inference_for_stats
+# Causal inference take-home assignment
